@@ -1,0 +1,5 @@
+geopandas
+matplotlib
+datetime
+IPython
+ee
