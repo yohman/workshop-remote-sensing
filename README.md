@@ -25,7 +25,7 @@ If you have a @g.ucla.edu account:
 
 - Choose "Google" and launch.
 
-- [UCLA JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2Fworkshop-remote-sensing&urlpath=tree%2Fworkshop-remote-sensing%2FRemote+Sensing.ipynb&branch=main)
+- [UCLA JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2Fworkshop-remote-sensing&urlpath=lab%2Ftree%2Fworkshop-remote-sensing%2FRemote+Sensing.ipynb&branch=main)
 
 
 # Binder link to non-UCLA participants
