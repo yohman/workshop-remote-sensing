@@ -25,11 +25,11 @@ If you have a @g.ucla.edu account:
 
 - Choose "Google" and launch.
 
-- [UCLA JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2Fworkshop-remote-sensing&urlpath=lab%2Ftree%2Fworkshop-remote-sensing%2FRemote+Sensing.ipynb&branch=main)
+- [UCLA JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2Fworkshop-remote-sensing&urlpath=lab%2Ftree%2Fworkshop-remote-sensing%2FRemote+Sensing+Camp.ipynb&branch=main)
 
 
 # Binder link to non-UCLA participants
 
 Warning: Launching the binder link will take about 5 minutes.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yohman/workshop-remote-sensing/HEAD?filepath=Remote%20Sensing.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yohman/workshop-remote-sensing/HEAD?filepath=Remote%20Sensing%20Camp.ipynb)
